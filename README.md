@@ -1,4 +1,4 @@
-# pictocode
+# pictocode v1
 6080 ass1 was fun :D
 
 ## Background
