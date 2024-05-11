@@ -16,4 +16,5 @@ Inspired from accomplishing assignment 1 for COMP6080, found this very productiv
  - Google fonts (Roboto)
 
 ## Final UI result
-![flex](../pictocode/mount/src/assets/pictoscreenshot.jpg)
+<!-- ![flex](../pictocode/mount/src/assets/pictoscreenshot.jpg) -->
+<img src="./mount/src/assets/pictoscreenshot.jpg">
