@@ -16,4 +16,4 @@ Inspired from accomplishing assignment 1 for COMP6080, found this very productiv
  - Google fonts (Roboto)
 
 ## Final UI result
-![alt text](../pictocode/mount/public/pictoscreenshot.jpg)
+![flex](../pictocode/mount/src/assets/pictoscreenshot.jpg)
