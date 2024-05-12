@@ -26,7 +26,8 @@ const Pictocode = () => {
   })
 
   const MainBody = styled('div')({
-    display: 'flex'
+    display: 'flex',
+    marginLeft: '3em'
   }) 
 
   const SubheadingText = styled('h1')({
@@ -47,7 +48,7 @@ const Pictocode = () => {
     zIndex: '99', 
     borderRadius: '50%', 
     position: 'relative', 
-    boxShadow: '0px 10px 7px 3px gray'
+    boxShadow: '10px 4px 6px 5px #47718E',
   })
 
   const WaveComponent = styled('svg')({
@@ -62,7 +63,7 @@ const Pictocode = () => {
     color: 'white', 
     padding: '0.7em 2em', 
     border: '1px solid #47718E', 
-    borderRadius: '1em', 
+    borderRadius: '10px', 
     position: 'relative', 
     top: '-22vw', 
     marginLeft: '6vw', 
